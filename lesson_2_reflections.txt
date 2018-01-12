@@ -1,0 +1,15 @@
+>> O que acontece ao iniciar um repositorio? Por que voce precisa fazer 
+isso?
+
+	Ao iniciar um repositorio, o Git cria o diretorio oculto onde serao 
+	armazenados os meta dados que farao o historico deste repositorio. 
+	Caso contrario, o git nao fara o controle de versao.
+
+>> Em que se difere a area de preparacao do diretorio de trabalho e do 
+repositorio? Qual o valor voce acha que ela oferece?
+
+	A area de preparacao eh uma area provisoria para possibilitar um 
+	maior controle sobre quais arquivos realizar o commit. Isso 
+	possibilita uma separacao logica melhor entre commits.
+
+>> 
