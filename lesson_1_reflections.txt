@@ -1,0 +1,47 @@
+>> Como a visualizacao de um diff entre duas versoes de um arquivo ajuda
+voce a ver o bug que foi introduzido?
+	
+	Destacando as linhas que foram editadas entre duas versoes, fica 
+	mais facil identificar qual alteracao pode ter introduzido o bug.
+
+>> Como ter facil acesso a todo historico de um arquivo pode torna-lo 
+um programador mais eficiente no longo prazo?
+
+	O historico pode auxiliar no retorno a pontos diferentes dentro do 
+	desenvolvimento de um arquivo.
+
+>> Na sua opiniao, quais sao os pros e contras de escolher manualmente 
+quando criar um commit, como ocorre no Git, vs o salvamento automatico 
+de versoes, como no Google Docs?
+
+	Os pros sao a possibilidade de criar commit em momentos que façam 
+	sentido. Os contras é que esta sucetivel a falha humana.
+
+>> Por que voce acha que alguns sistemas de controlde de versao, como o 
+Git, permitem salvar varios arquivos em um commit, enquanto outros, 
+como o Google Docs, tratam cada arquivo separadamente?
+
+	Para criar pontos logicamente consistente em projetos que envolvam 
+	varios arquivos.
+
+>> Como usar os comandos git log e git diff para visualizar o historico 
+de arquivos?
+
+	Git log apresenta o historico de cada commit realizado e seu 
+	respectivo ID. Com o ID é possivel usar o git diff pra comparar e 
+	identificar as alteracoes feitas entre dois commits.
+
+>> De que modo o controle de versao pode dar a voce mais seguranca para 
+fazer alteracoes que podem danificar algo?
+
+	Mantendo um historico de alteracoes logico e tendo a possibiliade 
+	de restaurar os arquivos pra pontos anteriores de desenvolvimento, 
+	fica seguro fazer qualquer tipo de alteracao.
+
+>> Agora que voce ja configurou a sua area de trabalho, voce quer usar 
+o Git para que?
+
+	Para estar apto a utilizar uma ferramenta de versionamento 
+	amplamente difundida no mercado de desenvolvimento.
+
+>> 
