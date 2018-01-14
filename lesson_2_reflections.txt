@@ -12,4 +12,29 @@ repositorio? Qual o valor voce acha que ela oferece?
 	maior controle sobre quais arquivos realizar o commit. Isso 
 	possibilita uma separacao logica melhor entre commits.
 
+>> Como voce pode usar a area de preparacao para garantir que tenha um 
+commit por alteracao logica?
+
+	A area de preparacao permite realizar commit apenas dos arquivos 
+	que escolher, possibilitando garantir um commit por alteracao logica
+
+>> Quais sao algumas das situacoes em que branches seriam uteis para 
+manter seu historico organizado? Como branches ajudariam?
+
+	Caso seja necessario seguir uma linha diferente de desenvolvimento 
+	ou testar a adicao de funcionalidades experimentais sem afetar o 
+	curso principal do projeto.
+
+>> Como os diagramas ajudam a visualizar a estrutura de branches?
+
+	Possibilitando um entendimento visual das diferentes linhas de 
+	desenvolvimento que estao sendo seguidas.
+
+>> Qual eh o resultado da mesclagem de dois branches? Por que o 
+representamos no diagrama dessa forma?
+
+	Uma fusao de tudo que foi alterado nos dois branches. Sao
+	representados dessa forma para que se tenha o entendimento de que o 
+	resultado da fusao eh filho de seus branches.
+
 >> 
